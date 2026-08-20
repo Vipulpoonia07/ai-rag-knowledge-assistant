@@ -11,4 +11,3 @@ An end-to-end intelligent document query application that ingests unstructured t
 - Semantic Chunking: Vector storage and semantic search using ChromaDB and LangChain.
 - Token Streaming: Real-time UI updates via Server-Sent Events.
 - Prompt Engineering: Structured JSON schema enforcement to ensure predictable API outputs.
-- 
